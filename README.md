@@ -1,6 +1,8 @@
 # NewsletterApp
-Just add this to your webpage if you like to keep or learn how to code your own mailing list for your subscribers :) Mailchimp updates and keeps database of all your new subscribers, and it's totally free. 
-What is needed is first account in heroku that serves everything to mailchimp via git(needed of course), mailchimp.. 
+https://guarded-woodland-74439.herokuapp.com/   
+
+Subscribe for mailing list :) Mailchimp updates and keeps database of all your new subscribers, and it's totally free. Heroku will start to bill in coming months so will see if this still continues working. For now it's fully functional, and you can subscribe, but don't expect any mails from me, it's just made for the sake of learning. ;) 
+What is needed is first account in heroku that serves everything to mailchimp via git(needed of course), and account in mailchimp of course.. 
 
 starting with: npm init.. 
 
